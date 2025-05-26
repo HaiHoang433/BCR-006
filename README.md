@@ -1,4 +1,4 @@
-# BCR in Embedded Code
+# Bachelor Framework
 
 Train Google Colab:
 ```python
